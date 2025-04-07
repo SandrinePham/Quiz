@@ -1,0 +1,196 @@
+{
+  "characters": [
+    {
+      "name": "Luke Skywalker",
+      "category": "Star Wars",
+      "description": "Un Jedi légendaire, fils d'Anakin Skywalker, qui a joué un rôle crucial dans la défaite de l'Empire galactique.",
+      "difficulty": "Facile",
+      "pic": "https://vignette.wikia.nocookie.net/starwars/images/2/20/LukeTLJ.jpg",
+      "homeworld": "tatooine"
+    },
+    {
+      "name": "Darth Vader",
+      "category": "Star Wars",
+      "description": "Un Sith puissant et ancien Jedi, Anakin Skywalker, qui est tombé du côté obscur de la Force.",
+      "difficulty": "Difficile",
+      "pic": "https://vignette.wikia.nocookie.net/fr.starwars/images/3/32/Dark_Vador.jpg",
+      "homeworld": "tatooine"
+    },
+    {
+      "name": "Princess Leia",
+      "category": "Star Wars",
+      "description": "Fille d'Anakin Skywalker et sœur de Luke Skywalker, elle est une dirigeante de la rébellion contre l'Empire.",
+      "difficulty": "Facile",
+      "pic": "https://vignette.wikia.nocookie.net/starwars/images/f/fc/Leia_Organa_TLJ.png",
+      "homeworld": "alderaan"
+    },
+    {
+      "name": "Han Solo",
+      "category": "Star Wars",
+      "description": "Un contrebandier audacieux et capitaine du Millennium Falcon, allié de la rébellion.",
+      "difficulty": "Moyen",
+      "pic": "https://vignette.wikia.nocookie.net/starwars/images/e/e2/TFAHanSolo.png",
+      "homeworld": "corellia"
+    },
+    {
+      "name": "Darth Revan",
+      "category": "Star Wars",
+      "description": "Un puissant Sith devenu Jedi, dont l'histoire tragique est l'une des plus fascinantes de la galaxie.",
+      "difficulty": "Difficile",
+      "pic": "https://vignette.wikia.nocookie.net/starwars/images/3/32/Darth_Revan.png",
+      "homeworld": "Inconnu"
+    },
+    {
+      "name": "Ahsoka Tano",
+      "category": "Star Wars",
+      "description": "Ancienne apprentie d'Anakin Skywalker, elle a quitté l'Ordre Jedi et lutte contre l'Empire.",
+      "difficulty": "Moyen",
+      "pic": "https://vignette.wikia.nocookie.net/starwars/images/6/61/Ahsoka_Tano.png",
+      "homeworld": "shili"
+    },
+    {
+      "name": "General Grievous",
+      "category": "Star Wars",
+      "description": "Un redoutable cyborg, général des armées séparatistes, connu pour collectionner les sabres laser des Jedi qu'il a vaincus.",
+      "difficulty": "Difficile",
+      "pic": "https://vignette.wikia.nocookie.net/starwars/images/2/2b/General_Grievous.png",
+      "homeworld": "kalee"
+    },
+    {
+      "name": "Jango Fett",
+      "category": "Star Wars",
+      "description": "Le père génétique des clones de la République et un mercenaire de premier plan.",
+      "difficulty": "Moyen",
+      "pic": "https://vignette.wikia.nocookie.net/starwars/images/7/7a/Jango_Fett.png",
+      "homeworld": "concord dawn"
+    },
+    {
+      "name": "Goku Black",
+      "category": "Dragon Ball Z",
+      "description": "Un Goku maléfique venu d'une autre timeline, possédé par Zamasu et cherchant à exterminer l'humanité.",
+      "difficulty": "Difficile",
+      "pic": "https://vignette.wikia.nocookie.net/dragonball/images/b/b7/GokuBlack.png",
+      "homeworld": "Planète Vegeta (origine de Goku)"
+    },
+    {
+      "name": "Beerus",
+      "category": "Dragon Ball Z",
+      "description": "Le Dieu de la Destruction de l'Univers 7, redouté pour sa puissance absolue.",
+      "difficulty": "Difficile",
+      "pic": "https://vignette.wikia.nocookie.net/dragonball/images/5/52/Beerus.png",
+      "homeworld": "Inconnu"
+    },
+    {
+      "name": "Whis",
+      "category": "Dragon Ball Z",
+      "description": "Un ange puissant et le mentor de Beerus, capable de manipuler le temps et de surpasser tous les mortels.",
+      "difficulty": "Difficile",
+      "pic": "https://vignette.wikia.nocookie.net/dragonball/images/7/7c/Whis.png",
+      "homeworld": "Inconnu"
+    },
+    {
+      "name": "Raditz",
+      "category": "Dragon Ball Z",
+      "description": "Le frère aîné de Goku, un guerrier Saiyan cruel et impitoyable.",
+      "difficulty": "Moyen",
+      "pic": "https://vignette.wikia.nocookie.net/dragonball/images/3/3e/Raditz.png",
+      "homeworld": "Planète Vegeta"
+    },
+    {
+      "name": "Bardock",
+      "category": "Dragon Ball Z",
+      "description": "Le père de Goku, un guerrier Saiyan rebelle qui a défié Frieza.",
+      "difficulty": "Moyen",
+      "pic": "https://vignette.wikia.nocookie.net/dragonball/images/e/e0/Bardock.png",
+      "homeworld": "Planète Vegeta"
+    },
+    {
+      "name": "Hit",
+      "category": "Dragon Ball Z",
+      "description": "Un assassin légendaire de l'Univers 6, spécialiste des techniques temporelles.",
+      "difficulty": "Difficile",
+      "pic": "https://vignette.wikia.nocookie.net/dragonball/images/f/f9/Hit.png",
+      "homeworld": "Inconnu"
+    },
+    {
+      "name": "Jiren",
+      "category": "Dragon Ball Z",
+      "description": "Le guerrier le plus puissant de l'Univers 11, surpassant même les Dieux de la Destruction.",
+      "difficulty": "Difficile",
+      "pic": "https://vignette.wikia.nocookie.net/dragonball/images/a/a8/Jiren.png",
+      "homeworld": "Inconnu"
+    },
+    {
+      "name": "Zamasu",
+      "category": "Dragon Ball Z",
+      "description": "Un Kaiō-shin corrompu qui souhaite annihiler toute l'humanité.",
+      "difficulty": "Difficile",
+      "pic": "https://vignette.wikia.nocookie.net/dragonball/images/4/4f/Zamasu.png",
+      "homeworld": "Univers 10"
+    },
+    {
+      "name": "Toppo",
+      "category": "Dragon Ball Z",
+      "description": "Un guerrier de l'Univers 11, successeur potentiel de Dieu de la Destruction.",
+      "difficulty": "Difficile",
+      "pic": "https://vignette.wikia.nocookie.net/dragonball/images/0/00/Toppo.png",
+      "homeworld": "Univers 11"
+    },
+    {
+      "name": "Anakin Skywalker",
+      "category": "Star Wars",
+      "description": "Un Jedi prodige, devenu l'Élu, qui a basculé du côté obscur pour devenir Dark Vador.",
+      "difficulty": "Difficile",
+      "pic": "https://vignette.wikia.nocookie.net/starwars/images/6/6f/Anakin_Skywalker_RotS.png",
+      "homeworld": "tatooine"
+    },
+    {
+      "name": "Palpatine",
+      "category": "Star Wars",
+      "description": "Un Sith rusé et impitoyable, connu sous le nom de Dark Sidious, qui a orchestré la chute de la République et l'avènement de l'Empire.",
+      "difficulty": "Difficile",
+      "pic": "https://vignette.wikia.nocookie.net/starwars/images/d/d8/Emperor_Sidious.png",
+      "homeworld": "naboo"
+    },
+    {
+      "name": "Goku",
+      "category": "Dragon Ball Z",
+      "description": "Un Saiyan extrêmement puissant, défenseur de la Terre, et le personnage principal de la saga Dragon Ball.",
+      "difficulty": "Difficile",
+      "pic": "https://vignette.wikia.nocookie.net/dragonball/images/e/ea/Goku_DBZ.png",
+      "homeworld": "Planète Vegeta"
+    },
+    {
+      "name": "Vegeta",
+      "category": "Dragon Ball Z",
+      "description": "Le prince des Saiyans, un guerrier fier et puissant qui devient l'un des alliés les plus proches de Goku.",
+      "difficulty": "Difficile",
+      "pic": "https://vignette.wikia.nocookie.net/dragonball/images/c/cb/Vegeta.png",
+      "homeworld": "Planète Vegeta"
+    },
+    {
+      "name": "Broly",
+      "category": "Dragon Ball Z",
+      "description": "Un Super Saiyan légendaire, dévastateur et extrêmement puissant, qui est l'un des plus grands ennemis de Goku et Vegeta.",
+      "difficulty": "Difficile",
+      "pic": "https://vignette.wikia.nocookie.net/dragonball/images/e/e7/Broly_2018.png",
+      "homeworld": "Planète Vegeta"
+    },
+    {
+      "name": "Frieza",
+      "category": "Dragon Ball Z",
+      "description": "Un tyran galactique et l'un des ennemis les plus redoutables de Goku, responsable de la destruction de la planète Vegeta.",
+      "difficulty": "Difficile",
+      "pic": "https://vignette.wikia.nocookie.net/dragonball/images/3/36/Frieza_Full_Power.png",
+      "homeworld": "Planète Frieza"
+    },
+    {
+      "name": "Trunks",
+      "category": "Dragon Ball Z",
+      "description": "Le fils de Vegeta et Bulma, un combattant talentueux qui joue un rôle crucial dans la saga de Cell.",
+      "difficulty": "Moyen",
+      "pic": "https://vignette.wikia.nocookie.net/dragonball/images/4/46/Trunks_DBZ.png",
+      "homeworld": "Terre"
+    }
+  ]
+}

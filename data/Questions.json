@@ -1,0 +1,350 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "category": "Star Wars",
+      "difficulty": "Facile",
+      "question": "Quel est le nom du père de Luke Skywalker ?",
+      "options": ["Obi-Wan Kenobi", "Anakin Skywalker", "Yoda", "Mace Windu"],
+      "answer": "Anakin Skywalker"
+    },
+    {
+      "id": 2,
+      "category": "Star Wars",
+      "difficulty": "Facile",
+      "question": "De quelle couleur est le sabre laser de Luke Skywalker dans 'Le Retour du Jedi' ?",
+      "options": ["Bleu", "Vert", "Rouge", "Violet"],
+      "answer": "Vert"
+    },
+    {
+      "id": 3,
+      "category": "Star Wars",
+      "difficulty": "Moyen",
+      "question": "Quel est le nom du chasseur de primes qui capture Han Solo dans 'L'Empire contre-attaque' ?",
+      "options": ["Jango Fett", "Cad Bane", "Boba Fett", "Bossk"],
+      "answer": "Boba Fett"
+    },
+    {
+      "id": 4,
+      "category": "Star Wars",
+      "difficulty": "Difficile",
+      "question": "Quel est le vrai nom de Dark Sidious ?",
+      "options": ["Sheev Palpatine", "Darth Plagueis", "Count Dooku", "Snoke"],
+      "answer": "Sheev Palpatine"
+    },
+    {
+      "id": 5,
+      "category": "Star Wars",
+      "difficulty": "Facile",
+      "question": "Quel est le nom du Wookiee compagnon de Han Solo ?",
+      "options": ["Chewbacca", "Tarfful", "Zaalbar", "Lumpawaroo"],
+      "answer": "Chewbacca"
+    },
+    {
+      "id": 6,
+      "category": "Star Wars",
+      "difficulty": "Moyen",
+      "question": "Sur quelle planète Obi-Wan Kenobi affronte-t-il Anakin Skywalker dans 'La Revanche des Sith' ?",
+      "options": ["Tatooine", "Mustafar", "Coruscant", "Dagobah"],
+      "answer": "Mustafar"
+    },
+    {
+      "id": 7,
+      "category": "Star Wars",
+      "difficulty": "Difficile",
+      "question": "Quel est le véritable nom de l'Empereur dans Star Wars ?",
+      "options": ["Sheev Palpatine", "Darth Plagueis", "Snoke", "Darth Bane"],
+      "answer": "Sheev Palpatine"
+    },
+    {
+      "id": 8,
+      "category": "Star Wars",
+      "difficulty": "Facile",
+      "question": "Quelle est l'espèce de Yoda ?",
+      "options": ["Humain", "Togruta", "Inconnue", "Wookiee"],
+      "answer": "Inconnue"
+    },
+    {
+      "id": 9,
+      "category": "Star Wars",
+      "difficulty": "Moyen",
+      "question": "Quel Sith a créé la règle des deux ?",
+      "options": [
+        "Darth Sidious",
+        "Darth Bane",
+        "Darth Vader",
+        "Darth Plagueis"
+      ],
+      "answer": "Darth Bane"
+    },
+    {
+      "id": 10,
+      "category": "Star Wars",
+      "difficulty": "Moyen",
+      "question": "Quel est le nom du vaisseau de Han Solo ?",
+      "options": ["X-Wing", "Slave I", "Executor", "Millennium Falcon"],
+      "answer": "Millennium Falcon"
+    },
+    {
+      "id": 11,
+      "category": "Star Wars",
+      "difficulty": "Difficile",
+      "question": "Comment s'appelle la planète où Anakin Skywalker est né ?",
+      "options": ["Naboo", "Tatooine", "Coruscant", "Kamino"],
+      "answer": "Tatooine"
+    },
+    {
+      "id": 12,
+      "category": "Star Wars",
+      "difficulty": "Facile",
+      "question": "Qui a entraîné Luke Skywalker à maîtriser la Force ?",
+      "options": ["Darth Vader", "Yoda", "Mace Windu", "Qui-Gon Jinn"],
+      "answer": "Yoda"
+    },
+    {
+      "id": 13,
+      "category": "Star Wars",
+      "difficulty": "Moyen",
+      "question": "Quel est le nom du général qui dirige l'armée droïde des Séparatistes ?",
+      "options": ["General Grievous", "Darth Maul", "Count Dooku", "Snoke"],
+      "answer": "General Grievous"
+    },
+    {
+      "id": 14,
+      "category": "Star Wars",
+      "difficulty": "Facile",
+      "question": "Qui est le frère de Leia Organa ?",
+      "options": [
+        "Anakin Skywalker",
+        "Han Solo",
+        "Luke Skywalker",
+        "Obi-Wan Kenobi"
+      ],
+      "answer": "Luke Skywalker"
+    },
+    {
+      "id": 15,
+      "category": "Star Wars",
+      "difficulty": "Moyen",
+      "question": "Quel est le nom du droïde qui accompagne Poe Dameron dans la nouvelle trilogie ?",
+      "options": ["BB-8", "R2-D2", "C-3PO", "D-O"],
+      "answer": "BB-8"
+    },
+    {
+      "id": 16,
+      "category": "Star Wars",
+      "difficulty": "Difficile",
+      "question": "Comment s'appelle l'espèce de Dark Maul ?",
+      "options": ["Zabrak", "Togruta", "Twi'lek", "Chiss"],
+      "answer": "Zabrak"
+    },
+    {
+      "id": 17,
+      "category": "Star Wars",
+      "difficulty": "Facile",
+      "question": "Qui a construit C-3PO ?",
+      "options": [
+        "Anakin Skywalker",
+        "Obi-Wan Kenobi",
+        "Han Solo",
+        "Leia Organa"
+      ],
+      "answer": "Anakin Skywalker"
+    },
+    {
+      "id": 18,
+      "category": "Star Wars",
+      "difficulty": "Moyen",
+      "question": "Quel est le nom de la planète glacée où se trouve la base rebelle au début de 'L'Empire contre-attaque' ?",
+      "options": ["Hoth", "Endor", "Tatooine", "Bespin"],
+      "answer": "Hoth"
+    },
+    {
+      "id": 19,
+      "category": "Star Wars",
+      "difficulty": "Difficile",
+      "question": "Qui a été le premier Jedi à apparaître en fantôme de Force dans les films ?",
+      "options": ["Yoda", "Obi-Wan Kenobi", "Qui-Gon Jinn", "Anakin Skywalker"],
+      "answer": "Obi-Wan Kenobi"
+    },
+    {
+      "id": 20,
+      "category": "Star Wars",
+      "difficulty": "Facile",
+      "question": "Comment s'appelle le maître Jedi qui a formé Obi-Wan Kenobi ?",
+      "options": ["Mace Windu", "Yoda", "Qui-Gon Jinn", "Plo Koon"],
+      "answer": "Qui-Gon Jinn"
+    },
+    {
+      "id": 21,
+      "category": "Dragon Ball Z",
+      "difficulty": "Facile",
+      "question": "Quel est le nom du père de Goku ?",
+      "options": ["Raditz", "Vegeta", "Bardock", "Piccolo"],
+      "answer": "Bardock"
+    },
+    {
+      "id": 22,
+      "category": "Dragon Ball Z",
+      "difficulty": "Facile",
+      "question": "Qui est le premier ennemi majeur que Goku affronte dans Dragon Ball Z ?",
+      "options": ["Freezer", "Cell", "Raditz", "Boo"],
+      "answer": "Raditz"
+    },
+    {
+      "id": 23,
+      "category": "Dragon Ball Z",
+      "difficulty": "Moyen",
+      "question": "Comment s'appelle la technique signature de Vegeta ?",
+      "options": [
+        "Kamehameha",
+        "Final Flash",
+        "Destructo Disc",
+        "Big Bang Attack"
+      ],
+      "answer": "Final Flash"
+    },
+    {
+      "id": 24,
+      "category": "Dragon Ball Z",
+      "difficulty": "Difficile",
+      "question": "Quel est le nom du premier Super Saiyan légendaire introduit dans Dragon Ball Z ?",
+      "options": ["Goku", "Vegeta", "Broly", "Gohan"],
+      "answer": "Broly"
+    },
+    {
+      "id": 25,
+      "category": "Dragon Ball Z",
+      "difficulty": "Moyen",
+      "question": "Qui est le créateur des Dragon Balls sur Terre ?",
+      "options": ["Kami", "Dende", "Piccolo", "Guru"],
+      "answer": "Kami"
+    },
+    {
+      "id": 26,
+      "category": "Dragon Ball Z",
+      "difficulty": "Facile",
+      "question": "Quel est le nom du fils de Goku ?",
+      "options": ["Trunks", "Krillin", "Goten", "Gohan"],
+      "answer": "Gohan"
+    },
+    {
+      "id": 27,
+      "category": "Dragon Ball Z",
+      "difficulty": "Moyen",
+      "question": "Qui a entraîné Gohan pendant un an après la mort de Goku contre Raditz ?",
+      "options": ["Piccolo", "Krillin", "Vegeta", "Kami"],
+      "answer": "Piccolo"
+    },
+    {
+      "id": 28,
+      "category": "Dragon Ball Z",
+      "difficulty": "Difficile",
+      "question": "Quel est le vrai nom de Majin Boo sous sa forme originelle ?",
+      "options": ["Kid Boo", "Super Boo", "Fat Boo", "Ultimate Boo"],
+      "answer": "Kid Boo"
+    },
+    {
+      "id": 29,
+      "category": "Dragon Ball Z",
+      "difficulty": "Facile",
+      "question": "Quel est le nom du rival de Goku qui est prince des Saiyans ?",
+      "options": ["Raditz", "Broly", "Vegeta", "Nappa"],
+      "answer": "Vegeta"
+    },
+    {
+      "id": 30,
+      "category": "Dragon Ball Z",
+      "difficulty": "Facile",
+      "question": "Comment s'appelle la transformation légendaire des Saiyans aux cheveux dorés ?",
+      "options": ["Kaioken", "Super Saiyan", "Ultra Instinct", "Fusion"],
+      "answer": "Super Saiyan"
+    },
+    {
+      "id": 31,
+      "category": "Dragon Ball Z",
+      "difficulty": "Moyen",
+      "question": "Quel est le vrai nom de Mister Satan ?",
+      "options": ["Hercule", "Mark", "Videl", "Kakarot"],
+      "answer": "Mark"
+    },
+    {
+      "id": 32,
+      "category": "Dragon Ball Z",
+      "difficulty": "Difficile",
+      "question": "Comment s'appelle l'attaque la plus puissante de Goku en Super Saiyan 3 ?",
+      "options": ["Kamehameha", "Genkidama", "Poing du Dragon", "Final Flash"],
+      "answer": "Poing du Dragon"
+    },
+    {
+      "id": 33,
+      "category": "Dragon Ball Z",
+      "difficulty": "Facile",
+      "question": "Qui est le fils de Vegeta ?",
+      "options": ["Gohan", "Trunks", "Goten", "Broly"],
+      "answer": "Trunks"
+    },
+    {
+      "id": 34,
+      "category": "Dragon Ball Z",
+      "difficulty": "Moyen",
+      "question": "Combien de formes Cell possède-t-il dans Dragon Ball Z ?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "3"
+    },
+    {
+      "id": 35,
+      "category": "Dragon Ball Z",
+      "difficulty": "Difficile",
+      "question": "Quel personnage a coupé la queue de Vegeta lors de son combat contre Goku ?",
+      "options": ["Gohan", "Yajirobe", "Krillin", "Piccolo"],
+      "answer": "Yajirobe"
+    },
+    {
+      "id": 36,
+      "category": "Dragon Ball Z",
+      "difficulty": "Facile",
+      "question": "Quel est le nom du dragon qui exauce les vœux lorsqu'on réunit les 7 Dragon Balls ?",
+      "options": ["Shenron", "Porunga", "Smaug", "Korin"],
+      "answer": "Shenron"
+    },
+    {
+      "id": 37,
+      "category": "Dragon Ball Z",
+      "difficulty": "Moyen",
+      "question": "Comment s'appelle la planète d'origine des Saiyans ?",
+      "options": ["Terre", "Namek", "Vegeta", "Kaioshin"],
+      "answer": "Vegeta"
+    },
+    {
+      "id": 38,
+      "category": "Dragon Ball Z",
+      "difficulty": "Difficile",
+      "question": "Quelle est la technique spéciale de Tenshinhan ?",
+      "options": ["Masenko", "Kikoho", "Dodompa", "Final Flash"],
+      "answer": "Kikoho"
+    },
+    {
+      "id": 39,
+      "category": "Dragon Ball Z",
+      "difficulty": "Facile",
+      "question": "Qui est le meilleur ami de Goku depuis l'enfance ?",
+      "options": ["Piccolo", "Krillin", "Yamcha", "Vegeta"],
+      "answer": "Krillin"
+    },
+    {
+      "id": 40,
+      "category": "Dragon Ball Z",
+      "difficulty": "Moyen",
+      "question": "Quelle est la technique ultime utilisée par Gohan contre Cell ?",
+      "options": [
+        "Kamehameha Père-Fils",
+        "Big Bang Attack",
+        "Genkidama",
+        "Makankosappo"
+      ],
+      "answer": "Kamehameha Père-Fils"
+    }
+  ]
+}
+

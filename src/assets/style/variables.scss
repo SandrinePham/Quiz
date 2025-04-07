@@ -1,0 +1,61 @@
+// ** Couleurs globales pour le jeu
+$primary-color-home: #00A8FF;  // Bleu vif pour la page d'accueil
+$secondary-color-home: #F0F0F0;  // Gris clair pour la page d'accueil
+$accent-color-about: #FFD700;  // Jaune doré pour les accents de la page About
+$background-color-about: #333333;  // Gris anthracite pour la page About
+
+// ** Couleurs par catégorie de quiz
+
+// Star Wars
+$sw-primary: #003366;  // Bleu galactique
+$sw-secondary: #FFD700;  // Jaune lumineux
+$sw-accent: #A9A9A9;  // Gris métallisé
+
+// Disney
+$disney-primary: #6EC6FF;  // Bleu ciel
+$disney-secondary: #FFEB3B;  // Jaune doux
+$disney-accent: #F5A9B8;  // Rose pastel
+
+// Marvel
+$marvel-primary: #FF3333;  // Rouge intense
+$marvel-secondary: #003B5C;  // Bleu marine
+$marvel-accent: #FFD700;  // Or métallique
+
+// Harry Potter
+$hp-primary: #9B111E;  // Bordeaux magique
+$hp-secondary: #FFD700;  // Or brillant
+$hp-accent: #4B4B4B;  // Gris foncé
+
+// Jeux Vidéo
+$gaming-primary: #00FF00;  // Vert néon
+$gaming-secondary: #000000;  // Noir profond
+$gaming-accent: #1F75FE;  // Bleu électrique
+
+// ** Polices (avec Google Fonts)
+
+/* Import des polices */
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Roboto:wght@400;700&family=Press+Start+2P&display=swap');
+
+/* Polices */
+$font-primary: 'Bangers', sans-serif;  
+$font-secondary: 'Roboto', sans-serif;  
+$font-accent: 'Press Start 2P', cursive;  // Police d'accent pour les éléments stylisés
+
+// ** Taille et espacements
+$padding-base: 20px;
+$margin-base: 20px;
+
+$button-padding: 12px 24px;
+$button-radius: 8px;
+$font-size-base: 16px;
+$font-size-heading: 2rem;
+
+
+// ** Ombres et bordures
+$box-shadow-light: 0 4px 10px rgba(0, 0, 0, 0.1);
+$box-shadow-dark: 0 4px 20px rgba(0, 0, 0, 0.2);
+
+// ** Transitions et effets
+$transition-fast: 0.2s ease-in-out;
+$transition-medium: 0.3s ease-in-out;
+$transition-slow: 0.5s ease-in-out;

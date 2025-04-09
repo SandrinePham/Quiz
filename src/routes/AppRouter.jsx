@@ -1,12 +1,8 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-
-// Pages
 import Home from "../pages/Home";
 import About from "../pages/About";
-
-// Composants
 import Navbar from "../components/Navbar";
-import QuizWrapper from "../components/QuizWrapper"; // Importer QuizWrapper
+import QuizWrapper from "../components/QuizWrapper"; 
 
 function AppRouter() {
   return (

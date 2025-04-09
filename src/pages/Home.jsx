@@ -1,7 +1,6 @@
 import "./Home.scss";
 import { Link } from "react-router-dom";
 
-// src/pages/Home.jsx
 import React, { useState } from "react";
 import Quiz from "../components/Quiz";
 

@@ -1,6 +1,6 @@
 import React from "react";
-import { useParams } from "react-router-dom"; // Pour récupérer le paramètre de l'URL
-import Quiz from "./Quiz"; // Importer le composant Quiz
+import { useParams } from "react-router-dom"; 
+import Quiz from "./Quiz"; 
 
 const QuizWrapper = () => {
   // Utilisation de useParams pour récupérer le thème du quiz dans l'URL

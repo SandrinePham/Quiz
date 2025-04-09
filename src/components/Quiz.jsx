@@ -1,8 +1,6 @@
-// src/components/Quiz.jsx
-
 import React, { useState } from "react";
 import questionsData from "../../data/Questions.json";
-import "./Quiz.scss"; // Import du fichier SCSS
+import "./Quiz.scss"; 
 
 const Quiz = ({ theme }) => {
   const [difficulty, setDifficulty] = useState(null);
@@ -56,7 +54,7 @@ const Quiz = ({ theme }) => {
     setShowResult(false);
   };
 
-  // Créer une classe dynamique en fonction du thème
+  // Classe en fonction du thème
   const themeClass = theme.toLowerCase().replace(/\s/g, "-");
 
   return (

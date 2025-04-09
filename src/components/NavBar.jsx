@@ -1,4 +1,4 @@
-import { NavLink } from "react-router-dom"; // Reste inchangé
+import { NavLink } from "react-router-dom"; 
 import Logo from "../assets/images/logo/logo_white.png";
 import "./Navbar.scss";
 

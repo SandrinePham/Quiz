@@ -1,0 +1,92 @@
+// src/components/Quiz.scss
+
+@use '../assets/style/variables.scss'; 
+
+.quiz-container {
+  text-align: center;
+  padding: 20px;
+
+  h1 {
+    margin-bottom: 20px;
+  }
+
+  .difficulty-buttons {
+    button {
+      margin: 10px;
+      padding: 10px 20px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+  }
+
+  .question-block {
+    h2 {
+      margin-bottom: 15px;
+    }
+
+    .options {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+
+      button {
+        padding: 10px 20px;
+        cursor: pointer;
+        border: 2px solid transparent;
+
+        &.selected {
+          border: 2px solid #000;
+        }
+      }
+    }
+
+    .next-button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+  }
+
+  .result {
+    margin-top: 30px;
+
+    button {
+      margin-top: 15px;
+      padding: 10px 20px;
+      font-weight: bold;
+    }
+  }
+
+  // 🎨 Thèmes dynamiques
+
+  &.star-wars {
+    background-color: variables.$sw-primary;
+    color: variables.$sw-secondary;
+
+    button {
+      background-color: variables.$sw-secondary;
+      color: #000;
+
+      &:hover {
+        background-color: variables.$sw-accent;
+      }
+    }
+  }
+
+  &.dragon-ball-z {
+    background-color: variables.$dbz-primary;
+    color: variables.$dbz-accent;
+
+    button {
+      background-color: variables.$dbz-secondary;
+      color: #fff;
+
+      &:hover {
+        background-color: variables.$dbz-accent;
+        color: #000;
+      }
+    }
+  }
+}

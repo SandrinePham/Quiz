@@ -3,11 +3,10 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 // Pages
 import Home from "../pages/Home";
 import About from "../pages/About";
-import QuizSW from "../pages/QuizSW";
 
 // Composants
-import Navbar from "../components/NavBar";
-import QuizDbz from "../pages/QuizDBZ";
+import Navbar from "../components/Navbar";
+import QuizWrapper from "../components/QuizWrapper"; // Importer QuizWrapper
 
 function AppRouter() {
   return (
@@ -18,13 +17,12 @@ function AppRouter() {
       <Routes>
         {/* Route vers la page d'accueil */}
         <Route path="/" element={<Home />} />
-
+        
         {/* Route vers la page À propos */}
         <Route path="/about" element={<About />} />
-
-        {/* Routes vers les pages des quiz */}
-        <Route path="/quiz-sw" element={<QuizSW />} /> {/* Quiz Star Wars */}
-        <Route path="/quiz-dbz" element={<QuizDbz />} /> {/* Quiz Marvel */}
+        
+        {/* Route pour les quiz */}
+        <Route path="/quiz/:theme" element={<QuizWrapper />} /> {/* Route dynamique pour les quiz */}
       </Routes>
     </BrowserRouter>
   );

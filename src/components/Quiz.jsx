@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import questionsData from "../../data/Questions.json";
-import "./Quiz.scss"; 
+import "./Quiz.scss";
 
 const Quiz = ({ theme }) => {
   const [difficulty, setDifficulty] = useState(null);
@@ -64,9 +64,13 @@ const Quiz = ({ theme }) => {
       {!difficulty && (
         <div className="difficulty-buttons">
           <h3>Choisis une difficulté :</h3>
-          <button onClick={() => handleDifficultyChange("Facile")}>Facile</button>
+          <button onClick={() => handleDifficultyChange("Facile")}>
+            Facile
+          </button>
           <button onClick={() => handleDifficultyChange("Moyen")}>Moyen</button>
-          <button onClick={() => handleDifficultyChange("Difficile")}>Difficile</button>
+          <button onClick={() => handleDifficultyChange("Difficile")}>
+            Difficile
+          </button>
         </div>
       )}
 
@@ -101,7 +105,9 @@ const Quiz = ({ theme }) => {
       {showResult && (
         <div className="result">
           <h2>Quiz terminé !</h2>
-          <p>Score : {score} / {questions.length}</p>
+          <p>
+            Score : {score} / {questions.length}
+          </p>
           <button onClick={handleRestart}>Rejouer</button>
         </div>
       )}

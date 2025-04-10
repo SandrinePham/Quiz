@@ -16,8 +16,12 @@ const Home = () => {
       {!selectedTheme ? (
         <div>
           <h1>Choisis ton thème</h1>
-          <button onClick={() => handleThemeSelection("Star Wars")}>Star Wars</button>
-          <button onClick={() => handleThemeSelection("Dragon Ball Z")}>Dragon Ball Z</button>
+          <button onClick={() => handleThemeSelection("Star Wars")}>
+            Star Wars
+          </button>
+          <button onClick={() => handleThemeSelection("Dragon Ball Z")}>
+            Dragon Ball Z
+          </button>
         </div>
       ) : (
         <Quiz theme={selectedTheme} />

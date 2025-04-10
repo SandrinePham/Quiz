@@ -7,13 +7,28 @@ function Footer() {
       <div className="footer-content">
         <p>👾 QuizMaster - Le quiz qui fait briller ton cerveau!</p>
         <div className="socials">
-          <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="social-link">
+          <a
+            href="https://facebook.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="social-link"
+          >
             Facebook
           </a>
-          <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="social-link">
+          <a
+            href="https://twitter.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="social-link"
+          >
             Twitter
           </a>
-          <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="social-link">
+          <a
+            href="https://instagram.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="social-link"
+          >
             Instagram
           </a>
         </div>

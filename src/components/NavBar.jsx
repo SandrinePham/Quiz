@@ -1,4 +1,4 @@
-import { NavLink } from "react-router-dom"; 
+import { NavLink } from "react-router-dom";
 import Logo from "../assets/images/logo/logo_white.png";
 import "./Navbar.scss";
 
@@ -7,8 +7,13 @@ function Navbar() {
     <div className="header">
       <img src={Logo} alt="Logo CBX" className="logo" />
       <nav className="nav">
-        <NavLink className="link" to="/" exact>Accueil</NavLink> {/* Exact pour la route racine */}
-        <NavLink className="link" to="/about">À Propos</NavLink>
+        <NavLink className="link" to="/" exact>
+          Accueil
+        </NavLink>{" "}
+        {/* Exact pour la route racine */}
+        <NavLink className="link" to="/about">
+          À Propos
+        </NavLink>
       </nav>
     </div>
   );

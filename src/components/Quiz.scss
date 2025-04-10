@@ -1,4 +1,4 @@
-@use '../assets/style/variables.scss'; 
+@use "../assets/style/variables.scss";
 
 .quiz-container {
   text-align: center;
@@ -56,7 +56,6 @@
       font-weight: bold;
     }
   }
-
 
   &.star-wars {
     background-color: variables.$sw-primary;
